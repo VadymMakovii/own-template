@@ -13,7 +13,7 @@ export const App = () => {
         minHeight: '100vh',
       }}
     >
-      <h1>This is my own template</h1>
+      <h1>This is my own template!!!</h1>
     </div>
   );
 };
